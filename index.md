@@ -1,10 +1,6 @@
 # Welcome to Jonathan Ty's User Page
 Nice to meet you, my name is **Jonathan Ty**. I am a second-year Computer Science student attending the [University of California, San Diego](https://ucsd.edu/). Below, you can find more information regarding any *hobbies*/*interests*, *education*, *experience*, *technical skills*, and *fun facts*! 
 
-Pictures
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Task lists
-
 ## Table of Contents
 💬 [Favorite Quote](#favorite-quote)\
 👟 [Hobbies/Interests](#hobbies/interests)\
@@ -47,15 +43,29 @@ The first line of code I ever typed out was during my junior year of high school
 System.in.println("Hello world!")
 ```
 
-### Top 5 Places in San Diego
-1. [Torrey Pines State Natural Reserve](https://torreypine.org/)
+### Top 5 Places in San Diego that I want to visit
+If it's checked, this means that I visited it already!
+1. - [X] [Torrey Pines State Natural Reserve](https://torreypine.org/)
 
-2. [Balboa Park](https://balboapark.org/)
-3. [Mission Beach](https://www.sandiego.org/explore/things-to-do/beaches-bays/mission-beach.aspx)
-4. [Seaport Village](https://www.seaportvillage.com/)
-5. [Del Mar Fairgrounds](https://www.delmarfairgrounds.com/)
+![Picture of Torrey Pines State Natural Reserve](img/Torrey-Pines-States-Natural-Reserve-Trails-1.jpg)
+
+2. - [X] [Balboa Park](https://balboapark.org/)
+
+![Picture of Balboa Park Botanical Garden during the Sunset](img/vc_spotlightbalboapark_hero_botanicalgarden_st_rf_724245028_1280x640.jpg.webp)
+
+3. - [X] [Mission Beach](https://www.sandiego.org/explore/things-to-do/beaches-bays/mission-beach.aspx)
+
+![Picture of Mission Beach](img/sean-mullowney-3BgUBmDKwiI-unsplash1-scaled.jpg)
+
+4. - [X] [Seaport Village](https://www.seaportvillage.com/)
+
+![Picture of Seaport Village](img/Seaport-Village.jpg)
+
+5. - [X] [Del Mar Fairgrounds](https://www.delmarfairgrounds.com/)
+
+![Picture of the Del Mar Fairgrounds during the San Diego County Fair](img/1718137018607.webp)
 
 ## Social Media
-
+[Markdown File with Social Media Info](social-media.md)
 
 
